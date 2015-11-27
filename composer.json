@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-opencloud/openstack": "dev-master"
+    }
+}
